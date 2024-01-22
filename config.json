@@ -1,0 +1,8 @@
+{
+    "ring_duration":1200,
+    "shutdown_delay":10,
+    "save_dir":"f'{currect_dir}/data'",
+    "high_resolution":true,
+    "video_duration":30,
+    "audio_duration":10
+}
